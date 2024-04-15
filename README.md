@@ -6,6 +6,8 @@ I've been building and learning since 2018, Started off as a web developer. I ha
 
 For some time now I have been doing Digital Creating and I'm slowly transitioning to complete Mobile developer 😎
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan13-ai)](https://github.com/anuraghazra/github-readme-stats)
+
 🌍 I'm based in Arusha, Tanzania
 
 🖥️ See my portfolio at jordan13-ai
