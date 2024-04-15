@@ -7,10 +7,15 @@ I've been building and learning since 2018, Started off as a web developer. I ha
 For some time now I have been doing Digital Creating and I'm slowly transitioning to complete Mobile developer 😎
 
 🌍 I'm based in Arusha, Tanzania
+
 🖥️ See my portfolio at jordan13-ai
+
 ✉️ You can contact me at jordanmtui5721@gmail.com
+
 🚀 I'm currently working on 100days of design and code with day-to-day content-creating
+
 🧠 I'm learning React Native, Flutter and picking up Swift soon
+
 🤝 I'm open to collaborating on Anything React related and Photography/Videography.
 
 Skills
