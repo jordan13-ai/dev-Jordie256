@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi 👋 My name is Jordan Mtui
 
-<!--
-**jordan13-ai/jordan13-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer and Digital Creator
 
-Here are some ideas to get you started:
+I've been building and learning since 2018, Started off as a web developer. I have done UI design and Front-End development is where my heart is.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For some time now I have been doing Digital Creating and I'm slowly transitioning to complete Mobile developer 😎
+
+🌍 I'm based in Arusha, Tanzania
+🖥️ See my portfolio at jordan13-ai
+✉️ You can contact me at jordanmtui5721@gmail.com
+🚀 I'm currently working on 100days of design and code with day-to-day content-creating
+🧠 I'm learning React Native, Flutter and picking up Swift soon
+🤝 I'm open to collaborating on Anything React related and Photography/Videography.
+
+Skills
+JavaScript Kotlin Java HTML5 React CSS3 Sass Material UI NodeJS MongoDB PostgreSQL XD Figma
+
+Socials
